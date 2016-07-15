@@ -1,5 +1,20 @@
 # Project 3 - TimeCapsule
-Team Danaerys: Eric Devlin, Melissa Mesku, Amanda Corlett
+### Fill out a survey in which the results get mailed back to you in 5 years!
+
+A group project completed during General Assembly's Web Development Immersive
+Team Danaerys: [Eric Devlin](http://ericdevlin.codes/), [Melissa Mesku](http://melissamesku.com/), Amanda Corlett
+
+=============
+DEMO SITE
+=============
+https://mighty-brushlands-2202.herokuapp.com/
+
+========
+SUMMARY
+========
+TimeCapsule is a MongoDB/Express.js/Node.js CRUD app that allows users to register an account, respond to questions, and save responses into a time capsule. The user can view his or her saved time capsules, but not make changes to them - time capsules capture thoughts at a given moment in time! Instead, the create and update functionalities are featured in the user's ability to make changes to his or her account information, or delete the account altogether.
+
+In addition to the time capsules, users have the option to save their age and location to their account, adding value to the API created by including demographic data with the question-and-answer sets that make up the time capsules.
 
 =============
 TECHNOLOGIES
@@ -16,13 +31,6 @@ TECHNOLOGIES
 • Body-parser
 • Cookie-parser
 • Morgan
-
-========
-SUMMARY
-========
-TimeCapsule is a MongoDB/Express.js/Node.js CRUD app that allows users to register an account, respond to questions, and save responses into a time capsule. The user can view his or her saved time capsules, but not make changes to them - time capsules capture thoughts at a given moment in time! Instead, the create and update functionalities are featured in the user's ability to make changes to his or her account information, or delete the account altogether.
-
-In addition to the time capsules, users have the option to save their age and location to their account, adding value to the API created by including demographic data with the question-and-answer sets that make up the time capsules.
 
 ===========
 WIREFRAMES
